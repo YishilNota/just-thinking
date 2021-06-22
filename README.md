@@ -13,7 +13,7 @@
 
 1）下面是该语言简单程序代码演示：
 
- <img src="image/1.png" width = "300" height = "200" alt="图片名称" align=center />
+ <img src="image/1.png" width = "500" alt="ugl-code" align=center />
 
 * 注：图片中相关编程规则为假设，实际语言不一定与上图相同。
 * 其中，可用c语言解释该上图中所用到的保留字，其对应关系如下：
