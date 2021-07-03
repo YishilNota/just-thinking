@@ -44,5 +44,8 @@ print(Sum)
 * 阿拉伯文编程语言قەلب书写的HelloWorld程序：
 
  <img src="image/2.png" width = "400" alt="arabic-kelib" align=center />
+ 
+* 维吾尔拉丁文版简单项目：
+url：https://github.com/kompasim/UyghurScript
 
 
