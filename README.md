@@ -45,7 +45,6 @@ print(Sum)
 
  <img src="image/2.png" width = "400" alt="arabic-kelib" align=center />
  
-* 维吾尔拉丁文版简单项目：
-url：https://github.com/kompasim/UyghurScript
+* 维吾尔拉丁文版简单项目：https://github.com/kompasim/UyghurScript
 
 
